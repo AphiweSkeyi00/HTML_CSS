@@ -1,7 +1,7 @@
 # HTML_CSS
 **Week 1**
 
-Unit 1 - Introduction to HTML &amp; CSS
+**Unit 1 - Introduction to HTML &amp; CSS**
 
 Html is used to build websites and other web related softwares. We use the internet as a meeting point between computers and humans.
 We use three programming languages to develop websites, namely HTML, CSS and Javascript.
@@ -22,4 +22,10 @@ Html uses tags(which  use less than and greater than symbols) to structure web p
 Nested element - an element inside another one
 DOM - Document Object Model is a structure/tree that shows how nested elements are related.
 HTML headlines range from 1 to 6, 1 being the biggest going down in size. They are used as  hierachy to show what is important and what will grab the users attention
-HTML Bold & Italics - 
+HTML Bold & Italics - the formatting styles are used to put emphsis on a word or phrase. We use <i> for visual italics and <em> to add emphasis. 
+We also use <b> to make texts bold and <strong> to emphasize
+
+HTML Lists
+Ordered
+Unordered
+Definition
