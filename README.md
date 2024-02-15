@@ -1,5 +1,6 @@
 # HTML_CSS
 **Week 1**
+
 Unit 1 - Introduction to HTML &amp; CSS
 
 Html is used to build websites and other web related softwares. We use the internet as a meeting point between computers and humans.
@@ -16,4 +17,6 @@ the code it will crash. When you write code you need to make sure that it will r
 3. When HTMl is broken or there is  bg in the code. the web browser will guess what it wants and try to fix the code and display something.
 
 **Unit 2 - Text Formatting**
-Html uses tags(which  use less thand and greater than symbols) to structure web pages
+
+Html uses tags(which  use less thand and greater than symbols) to structure web pages, most tags come in pairs an opening and a closing tag - together they are called an element.
+
