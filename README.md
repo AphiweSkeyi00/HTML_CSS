@@ -8,7 +8,7 @@ We use three programming languages to develop websites, namely HTML, CSS and Jav
 HTML - Hypertext Markup Language is used to mark the content of the website. It is also known as a declarative language because the code is simple and declares the instructions.
 It  can handle incorrect code and try to fix it and delive functinal results.
 
-CSS - Cascading Style Sheets is used to stle the website and makeit more appealing and user friendly, using fonts, colours and resizing.
+CSS - Cascading Style Sheets is used to stle the website and make it more appealing and user friendly, using fonts, colours and resizing.
 
 Javascript is a programming language used to create interactive and complex websites. It is more powerfull than HTML and CSS but it's delicate. If there are errors in the code or th browser cannot understand
 the code it will crash. When you write code you need to make sure that it will run outdated browsers and also run on multiple platforms like Windows, Mac, Linux, Android
@@ -18,5 +18,8 @@ the code it will crash. When you write code you need to make sure that it will r
 
 **Unit 2 - Text Formatting**
 
-Html uses tags(which  use less thand and greater than symbols) to structure web pages, most tags come in pairs an opening and a closing tag - together they are called an element.
-
+Html uses tags(which  use less than and greater than symbols) to structure web pages, most tags come in pairs an opening and a closing tag - together they are called an element.
+Nested element - an element inside another one
+DOM - Document Object Model is a structure/tree that shows how nested elements are related.
+HTML headlines range from 1 to 6, 1 being the biggest going down in size. They are used as  hierachy to show what is important and what will grab the users attention
+HTML Bold & Italics - 
