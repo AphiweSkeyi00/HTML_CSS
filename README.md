@@ -32,6 +32,7 @@ Definition
 
 
 **Presentation**
+
 HTML Integration
 
 Involves using HTML code in different contexts to create content, structure, and functionality in websites. It's a combinatin of HTML, CSS and Javascript
