@@ -29,3 +29,16 @@ HTML Lists
 Ordered
 Unordered
 Definition
+
+
+**Presentation**
+HTML Integration
+
+Involves using HTML code in different contexts to create content, structure, and functionality in websites. It's a combinatin of HTML, CSS and Javascript
+An HTML page is a document written in HTML (Hypertext Markup Language) that defines the structure and content of a webpage.
+After the HTML file is created, every web page requires a few essential components. 
+First, a doctype statement indicating the HTML file's era should appear at the beginning of the file. 
+The remaining content on the page is then contained within an HTML element, also referred to as an HTML element. It informs us that every piece of content inside is HTML. 
+Within the HTML element, there are two primary sections for organizing content: the head and the body. The head encompasses all the metadata essential for the browser but remains invisible on the actual page. In contrast, the body is the area where the majority of the visible content and interactions take place.
+The document head contains metadata and other information about the document, such as the title, character encoding, and links to external resources.
+Content structuring involves organizing elements within a webpage to create a logical hierarchy and layout. It includes using semantic elements like <main>, <header>, <footer>, <article>, <section>, and <aside> to define different parts of the document, providing meaning and context to the content.
