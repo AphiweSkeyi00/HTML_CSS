@@ -43,3 +43,8 @@ The remaining content on the page is then contained within an HTML element, also
 Within the HTML element, there are two primary sections for organizing content: the head and the body. The head encompasses all the metadata essential for the browser but remains invisible on the actual page. In contrast, the body is the area where the majority of the visible content and interactions take place.
 The document head contains metadata and other information about the document, such as the title, character encoding, and links to external resources.
 Content structuring involves organizing elements within a webpage to create a logical hierarchy and layout. It includes using semantic elements like <main>, <header>, <footer>, <article>, <section>, and <aside> to define different parts of the document, providing meaning and context to the content.
+
+**HTML & CSS 102 Introduction o CSS**
+
+Week 3 Module 1
+
